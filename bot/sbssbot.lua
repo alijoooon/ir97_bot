@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {122774063,106014613,108151290,114986931,121208333},--Sudo users
+    sudo_users = {196484956,205364303},--Sudo users
     disabled_channels = {},
     realm = {79472297},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -238,7 +238,7 @@ Other Admins:
 @Sajjad0S
 @i81therock
 
-برای خرید گپ به 4 آیدی اول و برای خرید آموزش ساخت ربات ضد اسپم و ساخت ربات ضد اسپم به @Mr_Ah_S مراجعه کنید
+برای خرید گپ به 4 آیدی اول و برای خرید آموزش ساخت ربات ضد اسپم و ساخت ربات ضد اسپم به @Mr_Ahrجmکنید
 
 Our channels
 @SBSS_Team
